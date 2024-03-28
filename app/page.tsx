@@ -24,7 +24,7 @@ export default function Home() {
               height={24}
               priority
             />
-            testing...
+            this is preview version
           </a>
         </div>
       </div>
